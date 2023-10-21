@@ -1,0 +1,26 @@
+.serv{
+    background-color: aqua;
+    text-align: center;
+
+
+}
+.ser{
+    color: black;
+    width: 25%;
+    float: left;
+
+}
+.clrfix{
+    clear: left;
+}
+.divider {
+    height: 0.2rem;
+    max-width: 3.25rem;
+    margin: 1.5rem auto;
+    background-color: black;
+    opacity: 1;
+
+}
+.fs-1 {
+    font-size: calc(1.375rem + 1.5vw) !important;
+}
